@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+#This website serves the purpose of user interface as well as fetching data from weather api.
 # This is multi page web application using react functional component with resposiveness.
 React-router-dom v6 is used for navigating to different pages.
 UseState hook is used for managing navbar.
