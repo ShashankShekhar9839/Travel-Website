@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+# This is multi page web application using react functional component with resposiveness.
+React-router-dom v6 is used for navigating to different pages.
+UseState hook is used for managing navbar.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
