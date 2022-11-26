@@ -7,6 +7,14 @@ export const MenuItems = [
 },
 
 {
+    title:"Check Weather",
+    url:"/weather",
+    cName:"nav-links",
+    icon:"fa-solid fa-cloud"
+    
+},
+
+{
     
         title:"About",
         url:"/about",
@@ -26,13 +34,8 @@ export const MenuItems = [
     url:"/contact",
     cName:"nav-links",
     icon:"fa-solid fa-address-book"
-},
-{
-    title:"Sign Up",
-    url:"/signup",
-    cName:"nav-links-mobile",
-    
 }
+
 
 
 ]
